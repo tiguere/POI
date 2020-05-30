@@ -1,0 +1,6 @@
+Impact Unit	Impact Creator	Unique Nest ID #	Number of Eggs in Nest	# of Turtles Released from Nest	Release Location	Location Name	Date of Nest Relocation	Date of Turtle Release	Date Nest Cleared	Name of Nest Collector	Photo of Relocated Nest	Photo of Turtles Being Released	Staff Confirmation	Google Drive Folder
+One turtle rescued and released into the ocean	La Tortuga Viva	N20-7-8-19	70	42	"17.446417, -101.241120"	"Juluchuca, Guerrero, Mexico"	7-Aug-19	27-Sep-19	3-Oct-19	"Hector Maldonado
+Silvano Estrada Alvarez"	N20-7-8-19Pict1.JPG	N20-7-8-19Pict2.JPG	N20-7-8-19.JPG	https://drive.google.com/drive/u/0/folders/1FOl2wOyszrRsqO8YfMRqPjbCoW5WPgW9
+One turtle rescued and released into the ocean	La Tortuga Viva	N49-13-8-19	78	75	"17.446417, -10000000000"	"Juluchuca, Guerrero, Mexico"	13-Aug-19	4-Oct-19	7-Oct-19		DSCN1440.JPG	"DSCN1444.JPG,DSCN1443.JPG,DSCN1445.JPG,DSCN1441.JPG,DSCN1442.JPG"	N49-13-8-19.JPG	https://drive.google.com/drive/u/0/folders/1VgNgGGobJx2yrXh3PY89wmt_cuLBm0Q4
+One turtle rescued and released into the ocean	La Tortuga Viva	N20-7-8-19	70	42	"17.446417, -101.241120"	"Juluchuca, Guerrero, Mexico"	7-Aug-19	27-Sep-19	3-Oct-19	"Hector Maldonado
+Silvano Estrada Alvarez"	N20-7-8-19Pict1.JPG	N20-7-8-19Pict2.JPG	N20-7-8-19.JPG	https://drive.google.com/drive/u/0/folders/1FOl2wOyszrRsqO8YfMRqPjbCoW5WPgW9
